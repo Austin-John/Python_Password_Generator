@@ -2,7 +2,7 @@
 
 The Python Password Generator is a Python project that provides a simple and secure solution for generating strong and customizable passwords. This open-source project aims to empower users with a tool to create unique passwords based on their specific requirements.
 
-Key Features:-
+Key Features:
 
 • Password Generation: The project offers a reliable password generation program that creates random and secure passwords. Users can specify the number of password variations needed and the desired length of each password.
 
